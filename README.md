@@ -1,0 +1,2 @@
+# csmscript
+BAsh Script Example
